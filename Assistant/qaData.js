@@ -38,7 +38,7 @@
      group. Nothing needs to change in the question blocks.
    - Accents, capitals, plurals and small words (my, the, de, la...) are
      ignored. Keep groups focused: every entry of a group is treated as an
-     equivalent of every other entry.
+     equivalent of every other entry.  
    ============================================================================ */
 const qaData =
 {
